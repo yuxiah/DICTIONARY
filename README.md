@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fil">
 <head>
 <meta charset="UTF-8">
