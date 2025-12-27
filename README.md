@@ -1,4 +1,3 @@
-# DICTIONARY
 <!DOCTYPE html>
 <html lang="fil">
 <head>
